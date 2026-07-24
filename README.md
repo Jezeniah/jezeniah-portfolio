@@ -8,7 +8,7 @@ My focus is creating small, reliable systems that help teams move faster, stay o
 - **Daily Workflow Automations** — tools that remove manual steps from routine tasks  
 - **Internal Utilities** — lightweight scripts and apps that support triage, routing, and reporting  
 - **Operational Improvements** — systems that simplify coordination and reduce friction  
-- **Data Workflows** — Snowflake-backed processes for cleaner insights and smoother operations  
+- **Data Workflows** — processes for cleaner insights and smoother operations  
 - **Task-Specific Tools** — examples include scheduling helpers, notification systems, and quick‑action utilities
 
 ## 🛠 Tech & Tools
