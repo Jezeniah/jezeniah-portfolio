@@ -20,6 +20,3 @@ Workflow design • Automation architecture • Operational tooling
 - More efficient automation patterns  
 - Cleaner data pipelines  
 - Faster iteration cycles for internal tools
-
-## 📬 Connect
-your-email-here
