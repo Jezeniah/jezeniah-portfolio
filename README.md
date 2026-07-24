@@ -1,4 +1,4 @@
-# Hi, I'm Jeseniah👋  
+# Hi, I'm Jezeniah👋  
 Workflow Automation Engineer • Escalation Manager
 
 I build **internal automation tools** that streamline daily operations and reduce repetitive work.  
